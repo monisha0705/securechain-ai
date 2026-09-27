@@ -361,10 +361,4 @@ SecureChain AI targets the following supply chain attack vectors:
 
 ---
 
-## 📄 License
-
-MIT License — Free for research and commercial use.
-
----
-
 *Built for research and portfolio demonstration. SecureChain AI showcases the integration of real-world vulnerability APIs, unsupervised machine learning, and modern full-stack development for cybersecurity applications.*
